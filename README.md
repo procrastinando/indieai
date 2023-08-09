@@ -30,6 +30,6 @@ RUN pip3 install -r requirements.txt
 
 EXPOSE 85
 
-RUN python3 app.py
+ENTRYPOINT ["python3", "app.py"]
 ```
 Save the `Dockerfile` and build it: `docker build -t indieai .`
