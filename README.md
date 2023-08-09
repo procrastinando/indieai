@@ -31,5 +31,5 @@ RUN pip3 install -r requirements.txt
 
 EXPOSE 85
 
-python3 app.py
+RUN python3 app.py
 ```
