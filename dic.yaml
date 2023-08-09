@@ -1,0 +1,158 @@
+v2t:
+- tiny
+- base
+- small
+web_ui:
+- English
+- Español (Spanish)
+languages: # [gTTS]
+  English:
+    gTTS:
+      code: en
+      voices:
+      - Default
+  Bahasa (Indonesian):
+    gTTS:
+      code: id
+      voices:
+      - Default
+  Català (Catalan):
+    gTTS:
+      code: ca
+      voices:
+      - Default
+  Čeština (Czech):
+    gTTS:
+      code: cs
+      voices:
+      - Default
+  Dansk (Danish):
+    gTTS:
+      code: da
+      voices:
+      - Default
+  Deutsch (German):
+    gTTS:
+      code: de
+      voices:
+      - Default
+  Eesti (Estonian):
+    gTTS:
+      code: et
+      voices:
+      - Default
+  Español (Spanish):
+    gTTS:
+      code: es
+      voices:
+      - Default
+  Français (French):
+    gTTS:
+      code: fr
+      voices:
+      - Default
+  Hrvatski (Croatian):
+    gTTS:
+      code: en
+      voices:
+      - Default
+  Italiano (Italian):
+    gTTS:
+      code: it
+      voices:
+      - Default
+  Latviešu (Latvian):
+    gTTS:
+      code: lv
+      voices:
+      - Default
+  Lietuvių (Lithuanian):
+    gTTS:
+      code: lt
+      voices:
+      - Default
+  Magyar (Hungarian):
+    gTTS:
+      code: hu
+      voices:
+      - Default
+  Nederlands (Dutch):
+    gTTS:
+      code: nl
+      voices:
+      - Default
+  Norsk (Norwegian):
+    gTTS:
+      code: 'no'
+      voices:
+      - Default
+  Polski (Polish):
+    gTTS:
+      code: pl
+      voices:
+      - Default
+  Português (Portuguese):
+    gTTS:
+      code: pt
+      voices:
+      - Default
+  Română (Romanian):
+    gTTS:
+      code: ro
+      voices:
+      - Default
+  Slovenčina (Slovak):
+    gTTS:
+      code: sk
+      voices:
+      - Default
+  Suomi (Finnish):
+    gTTS:
+      code: fi
+      voices:
+      - Default
+  العربية (Arabic):
+    gTTS:
+      code: ar
+      voices:
+      - Default
+  Ελληνικά (Greek):
+    gTTS:
+      code: el
+      voices:
+      - Default
+  עברית (Hebrew):
+    gTTS:
+      code: iw
+      voices:
+      - Default
+  हिन्दी (Hindi):
+    gTTS:
+      code: hi
+      voices:
+      - Default
+  日本語 (Japanese):
+    gTTS:
+      code: ja
+      voices:
+      - Default
+  한국어 (Korean):
+    gTTS:
+      code: ko
+      voices:
+      - Default
+  Русский (Russian):
+    gTTS:
+      code: ru
+      voices:
+      - Default
+  中文 (简体) [Chinese Simplified]:
+    gTTS:
+      code: zh-CN
+      voices:
+      - Default
+  中文 (繁體) [Chinese Traditional]:
+    gTTS:
+      code: zh-TW
+      voices:
+      - Default
