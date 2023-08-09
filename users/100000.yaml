@@ -1,0 +1,43 @@
+credentials:
+  azure_region: ''
+  azure_token: ''
+  elevenlabs_token: ''
+  hf_token: ''
+  openai_token: ''
+language: English
+members:
+  '100000': true
+  '701125': true
+name: Visitor
+pass: ''
+teacher:
+  balance: 0.8971968778696052
+  read_speak:
+    difficulty: 2.63
+    homeworks:
+      colega [Carlos]:
+        ana: 0
+        chema: 0
+        ruben: 0
+      english:
+        hi: 36.85777777777778
+        how: 25.0
+        you are: 45.0
+    rate: 100.0
+    settings:
+      colega [Carlos]:
+        by: '701125'
+        language: "Espa\xF1ol (Spanish)"
+        t2v: gTTS
+        voice: Default
+      english:
+        by: '100000'
+        language: English
+        t2v: gTTS
+        voice: Default
+    speed: 0.723
+    target_score: 101.0
+    v2t: tiny
+withhold:
+- '100000'
+- '701125'
