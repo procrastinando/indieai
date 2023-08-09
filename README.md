@@ -32,4 +32,13 @@ EXPOSE 85
 
 ENTRYPOINT ["python3", "app.py"]
 ```
-Save the `Dockerfile` and build it: `docker build -t indieai .`
+Save the `Dockerfile` and build it: `docker build -t indieai .`, then deploy this in docker compose:
+```
+version: '3'
+services:
+  app:
+    image: indieai
+    ports:
+      - "85:85"
+    restart: unless-stopped
+```
