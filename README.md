@@ -33,3 +33,4 @@ EXPOSE 85
 
 RUN python3 app.py
 ```
+Save the `Dockerfile` and build it: `docker build -t indieai .`
