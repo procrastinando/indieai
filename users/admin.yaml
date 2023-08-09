@@ -1,0 +1,43 @@
+credentials:
+  azure_region: ''
+  azure_token: ''
+  elevenlabs_token: ''
+  hf_token: ''
+  openai_token: ''
+language: "Espa\xF1ol (Spanish)"
+members:
+  '100000': true
+  'admin': true
+name: Admin
+pass: ''
+teacher:
+  balance: 0.9011188537341576
+  read_speak:
+    difficulty: 2.63
+    homeworks:
+      english:
+        hi: 36.85777777777778
+        how: 25.0
+        you are: 45.39219758645524
+      spanish:
+        como: 15
+        estas: 15
+        hola: 26
+    rate: 100.0
+    settings:
+      english:
+        by: '100000'
+        language: English
+        t2v: gTTS
+        voice: Default
+      spanish:
+        by: '701125'
+        language: "Fran\xE7ais (French)"
+        t2v: gTTS
+        voice: Default
+    speed: 0.75
+    target_score: 101.0
+    v2t: tiny
+withhold:
+- '100000'
+- 'admin'
