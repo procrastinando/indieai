@@ -663,4 +663,4 @@ with gr.Blocks(title='IndieAI') as app:
 
     cancel_button.click(fn=cancel_button_change, cancels=[rs_event])
     app.queue()
-    app.launch(server_port=85, favicon_path='io2.webp', show_api=False, quiet=True)
+    app.launch(favicon_path='io2.webp', show_api=False, quiet=True)
